@@ -6,6 +6,7 @@ public class Hello
     {
 	System.out.print("Hello World!!");
 	System.out.println("GitHub ist tol");
+	System.out.println("Ja das Stimmt");
     }
 
 }
