@@ -1,6 +1,9 @@
 
 public class Hello
 {
+    public int random(){
+    	return 1;
+    }
 
     public static void main(String[] args)
     {
