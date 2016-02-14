@@ -15,4 +15,5 @@ public class Hello
 	}
 	int c;
 	int i = 0;
+	int a;
 }
