@@ -2,7 +2,7 @@
 public class Hello
 {
     public int random(){
-    	return 1;
+    	return 2 == 2 ? 1 : 2;
     }
 
     public static void main(String[] args)
